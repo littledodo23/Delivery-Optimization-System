@@ -5,6 +5,7 @@
 -Greedy initial assignment of packages to vehicles based on weight and capacity.
 
 -Optimizes delivery routes using:
+
 💰greedy algorithm
 
 🧊 Simulated Annealing
